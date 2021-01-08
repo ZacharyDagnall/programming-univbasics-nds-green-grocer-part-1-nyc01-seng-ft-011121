@@ -28,7 +28,7 @@ def consolidate_cart(cart)
     end
   end
  
-  receipt
+  receipt     #return completed receipt
 end
 
 
